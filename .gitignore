@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Large datasets
+datasets/train.csv
+datasets/synthetic_industrial_machine_data.csv
+datasets/sample.csv
+datasets/movies.csv
+datasets/rsna_train.csv
+
+# Large notebook
+slr-lab-3.ipynb
